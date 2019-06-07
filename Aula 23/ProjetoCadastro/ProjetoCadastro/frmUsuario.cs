@@ -139,10 +139,10 @@ namespace ProjetoCadastro
         private void Mostra()
         {
             txtCodigo.Text = frmPrincipal.usuario[atual].cd_usuario.ToString();
-            txtNome.Text = frmPrincipal.usuario[atual].nm_usuario.ToString();
-            txtNivel.Text = frmPrincipal.usuario[atual].sg_nivel.ToString();
-            txtLogin.Text = frmPrincipal.usuario[atual].nm_login.ToString();
-            txtSenha.Text = frmPrincipal.usuario[atual].ds_senha.ToString();
+            txtNome.Text = frmPrincipal.usuario[atual].nm_usuario;
+            txtNivel.Text = frmPrincipal.usuario[atual].sg_nivel;
+            txtLogin.Text = frmPrincipal.usuario[atual].nm_login;
+            txtSenha.Text = frmPrincipal.usuario[atual].ds_senha;
         }
     }
 }
