@@ -1,0 +1,18 @@
+Exercícios:
+20) Elabore um programa que receba 50 números e mostre na tela o menor deles.
+
+21) Elabore um programa que mostre na tela os 20 primeiros termos da sequência de Fibonacci.
+0,1,1,2,3,5,8,13,...
+
+22) Desenvolva um programa que mostre na tela a soma dos 100 primeiros termos da série: 1     2     3     4
+                --- + --- + --- + --- + ...
+                 2     3     4     5
+
+23) Desenvolva um programa que mostre na tela a soma dos 123 primeiros termos da série: 1     2     3     4
+                --- + --- + --- + --- + ...
+                 6     7     8     9
+
+24) Desenvolva um programa que mostre na tela a soma dos 80 primeiros termos da série: 1     1     1     1
+                    + --- + --- + --- + ...
+                       4     9     16
+

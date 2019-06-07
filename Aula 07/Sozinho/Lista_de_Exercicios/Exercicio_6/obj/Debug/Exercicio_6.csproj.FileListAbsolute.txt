@@ -1,0 +1,7 @@
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_6\bin\Debug\Exercicio_6.exe.config
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_6\bin\Debug\Exercicio_6.exe
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_6\bin\Debug\Exercicio_6.pdb
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_6\obj\Debug\Exercicio_6.csprojAssemblyReference.cache
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_6\obj\Debug\Exercicio_6.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_6\obj\Debug\Exercicio_6.exe
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_6\obj\Debug\Exercicio_6.pdb

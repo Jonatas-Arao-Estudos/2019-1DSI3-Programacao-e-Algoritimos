@@ -1,0 +1,13 @@
+C:\Users\aluno1\Downloads\Exercicios\Projeto_Exercicio_18\bin\Debug\Projeto_Exercicio_18.exe.config
+C:\Users\aluno1\Downloads\Exercicios\Projeto_Exercicio_18\bin\Debug\Projeto_Exercicio_18.exe
+C:\Users\aluno1\Downloads\Exercicios\Projeto_Exercicio_18\bin\Debug\Projeto_Exercicio_18.pdb
+C:\Users\aluno1\Downloads\Exercicios\Projeto_Exercicio_18\obj\Debug\Projeto_Exercicio_18.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Downloads\Exercicios\Projeto_Exercicio_18\obj\Debug\Projeto_Exercicio_18.exe
+C:\Users\aluno1\Downloads\Exercicios\Projeto_Exercicio_18\obj\Debug\Projeto_Exercicio_18.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 6\Exercicios\Projeto_Exercicio_18\bin\Debug\Projeto_Exercicio_18.exe.config
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 6\Exercicios\Projeto_Exercicio_18\bin\Debug\Projeto_Exercicio_18.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 6\Exercicios\Projeto_Exercicio_18\bin\Debug\Projeto_Exercicio_18.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 6\Exercicios\Projeto_Exercicio_18\obj\Debug\Projeto_Exercicio_18.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 6\Exercicios\Projeto_Exercicio_18\obj\Debug\Projeto_Exercicio_18.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 6\Exercicios\Projeto_Exercicio_18\obj\Debug\Projeto_Exercicio_18.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 6\Exercicios\Projeto_Exercicio_18\obj\Debug\Projeto_Exercicio_18.pdb

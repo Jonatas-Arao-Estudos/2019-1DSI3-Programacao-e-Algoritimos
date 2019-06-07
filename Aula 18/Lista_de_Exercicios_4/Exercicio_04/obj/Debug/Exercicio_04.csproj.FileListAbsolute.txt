@@ -1,0 +1,7 @@
+C:\Users\jonat\Downloads\Lista_de_Exercicios_4\Exercicio_04\obj\Debug\Exercicio_04.csprojAssemblyReference.cache
+C:\Users\jonat\Downloads\Lista_de_Exercicios_4\Exercicio_04\obj\Debug\Exercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Downloads\Lista_de_Exercicios_4\Exercicio_04\bin\Debug\Exercicio_04.exe.config
+C:\Users\jonat\Downloads\Lista_de_Exercicios_4\Exercicio_04\bin\Debug\Exercicio_04.exe
+C:\Users\jonat\Downloads\Lista_de_Exercicios_4\Exercicio_04\bin\Debug\Exercicio_04.pdb
+C:\Users\jonat\Downloads\Lista_de_Exercicios_4\Exercicio_04\obj\Debug\Exercicio_04.exe
+C:\Users\jonat\Downloads\Lista_de_Exercicios_4\Exercicio_04\obj\Debug\Exercicio_04.pdb

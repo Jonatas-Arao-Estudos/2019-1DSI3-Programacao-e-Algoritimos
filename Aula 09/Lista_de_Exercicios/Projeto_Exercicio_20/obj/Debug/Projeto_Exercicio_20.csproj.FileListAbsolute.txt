@@ -1,0 +1,14 @@
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_20\bin\Debug\Projeto_Exercicio_20.exe.config
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_20\bin\Debug\Projeto_Exercicio_20.exe
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_20\bin\Debug\Projeto_Exercicio_20.pdb
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_20\obj\Debug\Projeto_Exercicio_20.csprojAssemblyReference.cache
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_20\obj\Debug\Projeto_Exercicio_20.csproj.CoreCompileInputs.cache
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_20\obj\Debug\Projeto_Exercicio_20.exe
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_20\obj\Debug\Projeto_Exercicio_20.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 09\Lista_de_Exercicios\Projeto_Exercicio_20\bin\Debug\Projeto_Exercicio_20.exe.config
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 09\Lista_de_Exercicios\Projeto_Exercicio_20\bin\Debug\Projeto_Exercicio_20.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 09\Lista_de_Exercicios\Projeto_Exercicio_20\bin\Debug\Projeto_Exercicio_20.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 09\Lista_de_Exercicios\Projeto_Exercicio_20\obj\Debug\Projeto_Exercicio_20.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 09\Lista_de_Exercicios\Projeto_Exercicio_20\obj\Debug\Projeto_Exercicio_20.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 09\Lista_de_Exercicios\Projeto_Exercicio_20\obj\Debug\Projeto_Exercicio_20.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 09\Lista_de_Exercicios\Projeto_Exercicio_20\obj\Debug\Projeto_Exercicio_20.pdb

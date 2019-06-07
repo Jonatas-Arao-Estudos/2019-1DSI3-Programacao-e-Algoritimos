@@ -1,0 +1,6 @@
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_22\bin\Debug\Projeto_Exercicio_22.exe.config
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_22\bin\Debug\Projeto_Exercicio_22.exe
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_22\bin\Debug\Projeto_Exercicio_22.pdb
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_22\obj\Debug\Projeto_Exercicio_22.csproj.CoreCompileInputs.cache
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_22\obj\Debug\Projeto_Exercicio_22.exe
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Projeto_Exercicio_22\obj\Debug\Projeto_Exercicio_22.pdb

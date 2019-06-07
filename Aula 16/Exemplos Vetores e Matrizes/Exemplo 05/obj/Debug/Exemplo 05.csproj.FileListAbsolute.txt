@@ -1,0 +1,6 @@
+C:\Users\aluno2\Downloads\Exemplos Vetores e Matrizes\Exemplo 05\bin\Debug\Exemplo 05.exe.config
+C:\Users\aluno2\Downloads\Exemplos Vetores e Matrizes\Exemplo 05\bin\Debug\Exemplo 05.exe
+C:\Users\aluno2\Downloads\Exemplos Vetores e Matrizes\Exemplo 05\bin\Debug\Exemplo 05.pdb
+C:\Users\aluno2\Downloads\Exemplos Vetores e Matrizes\Exemplo 05\obj\Debug\Exemplo 05.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Downloads\Exemplos Vetores e Matrizes\Exemplo 05\obj\Debug\Exemplo 05.exe
+C:\Users\aluno2\Downloads\Exemplos Vetores e Matrizes\Exemplo 05\obj\Debug\Exemplo 05.pdb

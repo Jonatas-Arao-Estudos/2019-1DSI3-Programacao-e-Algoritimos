@@ -1,0 +1,8 @@
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_1\bin\Debug\Exemplo 1.exe.config
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_1\bin\Debug\Exemplo 1.exe
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_1\bin\Debug\Exemplo 1.pdb
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_1\bin\Debug\Exemplo 1.exe.CodeAnalysisLog.xml
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_1\bin\Debug\Exemplo 1.exe.lastcodeanalysissucceeded
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_1\obj\Debug\Exemplo_1.csproj.CoreCompileInputs.cache
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_1\obj\Debug\Exemplo 1.exe
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_1\obj\Debug\Exemplo 1.pdb

@@ -1,0 +1,6 @@
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_4\obj\Debug\Exemplo_4.csproj.CoreCompileInputs.cache
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_4\bin\Debug\Exemplo_4.exe.config
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_4\bin\Debug\Exemplo_4.exe
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_4\bin\Debug\Exemplo_4.pdb
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_4\obj\Debug\Exemplo_4.exe
+C:\Users\aluno3\source\repos\Exemplos\Exemplo_4\obj\Debug\Exemplo_4.pdb

@@ -1,0 +1,7 @@
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_1\Projeto_Exercicio_1\bin\Debug\Projeto_Exercicio_1.exe.config
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_1\Projeto_Exercicio_1\bin\Debug\Projeto_Exercicio_1.exe
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_1\Projeto_Exercicio_1\bin\Debug\Projeto_Exercicio_1.pdb
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_1\Projeto_Exercicio_1\obj\Debug\Projeto_Exercicio_1.csprojAssemblyReference.cache
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_1\Projeto_Exercicio_1\obj\Debug\Projeto_Exercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_1\Projeto_Exercicio_1\obj\Debug\Projeto_Exercicio_1.exe
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_1\Projeto_Exercicio_1\obj\Debug\Projeto_Exercicio_1.pdb

@@ -1,0 +1,10 @@
+C:\Users\aluno3\Downloads\Projeto_Visual_1\Projeto_Visual_1\bin\Debug\Projeto_Visual_1.exe.config
+C:\Users\aluno3\Downloads\Projeto_Visual_1\Projeto_Visual_1\bin\Debug\Projeto_Visual_1.exe
+C:\Users\aluno3\Downloads\Projeto_Visual_1\Projeto_Visual_1\bin\Debug\Projeto_Visual_1.pdb
+C:\Users\aluno3\Downloads\Projeto_Visual_1\Projeto_Visual_1\obj\Debug\Projeto_Visual_1.csprojAssemblyReference.cache
+C:\Users\aluno3\Downloads\Projeto_Visual_1\Projeto_Visual_1\obj\Debug\Projeto_Visual_1.Properties.Resources.resources
+C:\Users\aluno3\Downloads\Projeto_Visual_1\Projeto_Visual_1\obj\Debug\Projeto_Visual_1.csproj.GenerateResource.cache
+C:\Users\aluno3\Downloads\Projeto_Visual_1\Projeto_Visual_1\obj\Debug\Projeto_Visual_1.csproj.CoreCompileInputs.cache
+C:\Users\aluno3\Downloads\Projeto_Visual_1\Projeto_Visual_1\obj\Debug\Projeto_Visual_1.exe
+C:\Users\aluno3\Downloads\Projeto_Visual_1\Projeto_Visual_1\obj\Debug\Projeto_Visual_1.pdb
+C:\Users\aluno3\Downloads\Projeto_Visual_1\Projeto_Visual_1\obj\Debug\Projeto_Visual_1.Form1.resources

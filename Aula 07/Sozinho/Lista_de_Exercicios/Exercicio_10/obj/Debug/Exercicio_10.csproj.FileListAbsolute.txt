@@ -1,0 +1,14 @@
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_10\bin\Debug\Exercicio_10.exe.config
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_10\bin\Debug\Exercicio_10.exe
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_10\bin\Debug\Exercicio_10.pdb
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_10\obj\Debug\Exercicio_10.csprojAssemblyReference.cache
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_10\obj\Debug\Exercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_10\obj\Debug\Exercicio_10.exe
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_10\obj\Debug\Exercicio_10.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 7\Sozinho\Lista_de_Exercicios\Exercicio_10\bin\Debug\Exercicio_10.exe.config
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 7\Sozinho\Lista_de_Exercicios\Exercicio_10\bin\Debug\Exercicio_10.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 7\Sozinho\Lista_de_Exercicios\Exercicio_10\bin\Debug\Exercicio_10.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 7\Sozinho\Lista_de_Exercicios\Exercicio_10\obj\Debug\Exercicio_10.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 7\Sozinho\Lista_de_Exercicios\Exercicio_10\obj\Debug\Exercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 7\Sozinho\Lista_de_Exercicios\Exercicio_10\obj\Debug\Exercicio_10.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 7\Sozinho\Lista_de_Exercicios\Exercicio_10\obj\Debug\Exercicio_10.pdb

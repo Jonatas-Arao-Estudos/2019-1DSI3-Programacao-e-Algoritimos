@@ -1,0 +1,14 @@
+C:\Users\aluno3\source\repos\Lista_de_Exercicios_5\Exercicio_01\bin\Debug\Exercicio_01.exe.config
+C:\Users\aluno3\source\repos\Lista_de_Exercicios_5\Exercicio_01\bin\Debug\Exercicio_01.exe
+C:\Users\aluno3\source\repos\Lista_de_Exercicios_5\Exercicio_01\bin\Debug\Exercicio_01.pdb
+C:\Users\aluno3\source\repos\Lista_de_Exercicios_5\Exercicio_01\obj\Debug\Exercicio_01.csprojAssemblyReference.cache
+C:\Users\aluno3\source\repos\Lista_de_Exercicios_5\Exercicio_01\obj\Debug\Exercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\aluno3\source\repos\Lista_de_Exercicios_5\Exercicio_01\obj\Debug\Exercicio_01.exe
+C:\Users\aluno3\source\repos\Lista_de_Exercicios_5\Exercicio_01\obj\Debug\Exercicio_01.pdb
+C:\Users\jonat\Downloads\Lista_de_Exercicios_5\Exercicio_01\bin\Debug\Exercicio_01.exe.config
+C:\Users\jonat\Downloads\Lista_de_Exercicios_5\Exercicio_01\bin\Debug\Exercicio_01.exe
+C:\Users\jonat\Downloads\Lista_de_Exercicios_5\Exercicio_01\bin\Debug\Exercicio_01.pdb
+C:\Users\jonat\Downloads\Lista_de_Exercicios_5\Exercicio_01\obj\Debug\Exercicio_01.csprojAssemblyReference.cache
+C:\Users\jonat\Downloads\Lista_de_Exercicios_5\Exercicio_01\obj\Debug\Exercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Downloads\Lista_de_Exercicios_5\Exercicio_01\obj\Debug\Exercicio_01.exe
+C:\Users\jonat\Downloads\Lista_de_Exercicios_5\Exercicio_01\obj\Debug\Exercicio_01.pdb

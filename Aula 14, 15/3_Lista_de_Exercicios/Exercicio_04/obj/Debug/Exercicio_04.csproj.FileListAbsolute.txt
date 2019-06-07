@@ -1,0 +1,9 @@
+C:\Users\aluno1\Downloads\3_Lista_de_Exercicios\Exercicio_04\obj\Debug\Exercicio_04.csprojAssemblyReference.cache
+C:\Users\aluno1\Downloads\3_Lista_de_Exercicios\Exercicio_04\obj\Debug\Exercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Downloads\3_Lista_de_Exercicios\Exercicio_04\obj\Debug\Exercicio_04.csprojAssemblyReference.cache
+C:\Users\aluno2\Downloads\3_Lista_de_Exercicios\Exercicio_04\obj\Debug\Exercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Downloads\3_Lista_de_Exercicios\Exercicio_04\bin\Debug\Exercicio_04.exe.config
+C:\Users\aluno2\Downloads\3_Lista_de_Exercicios\Exercicio_04\bin\Debug\Exercicio_04.exe
+C:\Users\aluno2\Downloads\3_Lista_de_Exercicios\Exercicio_04\bin\Debug\Exercicio_04.pdb
+C:\Users\aluno2\Downloads\3_Lista_de_Exercicios\Exercicio_04\obj\Debug\Exercicio_04.exe
+C:\Users\aluno2\Downloads\3_Lista_de_Exercicios\Exercicio_04\obj\Debug\Exercicio_04.pdb

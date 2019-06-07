@@ -1,0 +1,11 @@
+C:\Users\aluno1\Downloads\Tabuada\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\aluno1\Downloads\Tabuada\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\aluno1\Downloads\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\aluno1\Downloads\Tabuada\Tabuada\obj\Debug\Tabuada.csprojAssemblyReference.cache
+C:\Users\aluno1\Downloads\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Downloads\Tabuada\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\aluno1\Downloads\Tabuada\Tabuada\obj\Debug\Tabuada.pdb
+C:\Users\aluno1\Downloads\Tabuada\Tabuada\bin\Debug\Tabuada.exe.manifest
+C:\Users\aluno1\Downloads\Tabuada\Tabuada\bin\Debug\Tabuada.application
+C:\Users\aluno1\Downloads\Tabuada\Tabuada\obj\Debug\Tabuada.exe.manifest
+C:\Users\aluno1\Downloads\Tabuada\Tabuada\obj\Debug\Tabuada.application

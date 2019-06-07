@@ -1,0 +1,7 @@
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 10\2_Lista_de_Exercicios\Exercicio_3\bin\Debug\Exercicio_3.exe.config
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 10\2_Lista_de_Exercicios\Exercicio_3\bin\Debug\Exercicio_3.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 10\2_Lista_de_Exercicios\Exercicio_3\bin\Debug\Exercicio_3.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 10\2_Lista_de_Exercicios\Exercicio_3\obj\Debug\Exercicio_3.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 10\2_Lista_de_Exercicios\Exercicio_3\obj\Debug\Exercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 10\2_Lista_de_Exercicios\Exercicio_3\obj\Debug\Exercicio_3.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 10\2_Lista_de_Exercicios\Exercicio_3\obj\Debug\Exercicio_3.pdb

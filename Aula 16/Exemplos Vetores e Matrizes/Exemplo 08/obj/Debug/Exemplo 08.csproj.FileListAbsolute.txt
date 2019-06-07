@@ -1,0 +1,7 @@
+C:\Users\aluno1\Downloads\Exemplos Vetores e Matrizes\Exemplo 08\bin\Debug\Exemplo 08.exe.config
+C:\Users\aluno1\Downloads\Exemplos Vetores e Matrizes\Exemplo 08\bin\Debug\Exemplo 08.exe
+C:\Users\aluno1\Downloads\Exemplos Vetores e Matrizes\Exemplo 08\bin\Debug\Exemplo 08.pdb
+C:\Users\aluno1\Downloads\Exemplos Vetores e Matrizes\Exemplo 08\obj\Debug\Exemplo 08.csprojAssemblyReference.cache
+C:\Users\aluno1\Downloads\Exemplos Vetores e Matrizes\Exemplo 08\obj\Debug\Exemplo 08.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Downloads\Exemplos Vetores e Matrizes\Exemplo 08\obj\Debug\Exemplo 08.exe
+C:\Users\aluno1\Downloads\Exemplos Vetores e Matrizes\Exemplo 08\obj\Debug\Exemplo 08.pdb

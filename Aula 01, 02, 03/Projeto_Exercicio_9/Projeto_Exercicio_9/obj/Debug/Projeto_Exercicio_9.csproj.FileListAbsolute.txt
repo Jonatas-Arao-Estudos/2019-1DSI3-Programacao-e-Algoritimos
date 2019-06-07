@@ -1,0 +1,6 @@
+C:\Users\jonat\Videos\Projeto_Exercicio_9\Projeto_Exercicio_9\bin\Debug\Projeto_Exercicio_9.exe.config
+C:\Users\jonat\Videos\Projeto_Exercicio_9\Projeto_Exercicio_9\bin\Debug\Projeto_Exercicio_9.exe
+C:\Users\jonat\Videos\Projeto_Exercicio_9\Projeto_Exercicio_9\bin\Debug\Projeto_Exercicio_9.pdb
+C:\Users\jonat\Videos\Projeto_Exercicio_9\Projeto_Exercicio_9\obj\Debug\Projeto_Exercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Videos\Projeto_Exercicio_9\Projeto_Exercicio_9\obj\Debug\Projeto_Exercicio_9.exe
+C:\Users\jonat\Videos\Projeto_Exercicio_9\Projeto_Exercicio_9\obj\Debug\Projeto_Exercicio_9.pdb

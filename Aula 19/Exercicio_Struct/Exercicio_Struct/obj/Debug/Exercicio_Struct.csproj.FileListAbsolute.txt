@@ -1,0 +1,7 @@
+C:\Users\aluno1\Downloads\Exercicio_Struct\Exercicio_Struct\bin\Debug\Exercicio_Struct.exe.config
+C:\Users\aluno1\Downloads\Exercicio_Struct\Exercicio_Struct\bin\Debug\Exercicio_Struct.exe
+C:\Users\aluno1\Downloads\Exercicio_Struct\Exercicio_Struct\bin\Debug\Exercicio_Struct.pdb
+C:\Users\aluno1\Downloads\Exercicio_Struct\Exercicio_Struct\obj\Debug\Exercicio_Struct.csprojAssemblyReference.cache
+C:\Users\aluno1\Downloads\Exercicio_Struct\Exercicio_Struct\obj\Debug\Exercicio_Struct.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Downloads\Exercicio_Struct\Exercicio_Struct\obj\Debug\Exercicio_Struct.exe
+C:\Users\aluno1\Downloads\Exercicio_Struct\Exercicio_Struct\obj\Debug\Exercicio_Struct.pdb

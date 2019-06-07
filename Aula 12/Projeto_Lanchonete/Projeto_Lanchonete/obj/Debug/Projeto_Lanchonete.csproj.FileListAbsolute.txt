@@ -1,0 +1,7 @@
+C:\Users\aluno2\Downloads\Projeto_Lanchonete\Projeto_Lanchonete\bin\Debug\Projeto_Lanchonete.exe.config
+C:\Users\aluno2\Downloads\Projeto_Lanchonete\Projeto_Lanchonete\bin\Debug\Projeto_Lanchonete.exe
+C:\Users\aluno2\Downloads\Projeto_Lanchonete\Projeto_Lanchonete\bin\Debug\Projeto_Lanchonete.pdb
+C:\Users\aluno2\Downloads\Projeto_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.csprojAssemblyReference.cache
+C:\Users\aluno2\Downloads\Projeto_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Downloads\Projeto_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.exe
+C:\Users\aluno2\Downloads\Projeto_Lanchonete\Projeto_Lanchonete\obj\Debug\Projeto_Lanchonete.pdb

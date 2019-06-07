@@ -1,0 +1,6 @@
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_5\bin\Debug\Exercicio_5.exe.config
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_5\bin\Debug\Exercicio_5.exe
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_5\bin\Debug\Exercicio_5.pdb
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_5\obj\Debug\Exercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_5\obj\Debug\Exercicio_5.exe
+C:\Users\jonat\source\repos\Lista_de_Exercicios\Exercicio_5\obj\Debug\Exercicio_5.pdb

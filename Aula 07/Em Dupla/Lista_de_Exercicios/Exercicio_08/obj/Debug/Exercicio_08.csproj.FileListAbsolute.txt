@@ -1,0 +1,6 @@
+C:\Users\aluno1\Downloads\Em Dupla\Lista_de_Exercicios\Exercicio_08\bin\Debug\Exercicio_08.exe.config
+C:\Users\aluno1\Downloads\Em Dupla\Lista_de_Exercicios\Exercicio_08\bin\Debug\Exercicio_08.exe
+C:\Users\aluno1\Downloads\Em Dupla\Lista_de_Exercicios\Exercicio_08\bin\Debug\Exercicio_08.pdb
+C:\Users\aluno1\Downloads\Em Dupla\Lista_de_Exercicios\Exercicio_08\obj\Debug\Exercicio_08.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Downloads\Em Dupla\Lista_de_Exercicios\Exercicio_08\obj\Debug\Exercicio_08.exe
+C:\Users\aluno1\Downloads\Em Dupla\Lista_de_Exercicios\Exercicio_08\obj\Debug\Exercicio_08.pdb

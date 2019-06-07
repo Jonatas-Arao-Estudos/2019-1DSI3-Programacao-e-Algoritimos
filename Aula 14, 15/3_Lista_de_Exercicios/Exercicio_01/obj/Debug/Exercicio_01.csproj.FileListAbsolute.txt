@@ -1,0 +1,7 @@
+C:\Users\aluno1\Downloads\3_Lista_de_Exercicios\Exercicio_01\bin\Debug\Exercicio_01.exe.config
+C:\Users\aluno1\Downloads\3_Lista_de_Exercicios\Exercicio_01\bin\Debug\Exercicio_01.exe
+C:\Users\aluno1\Downloads\3_Lista_de_Exercicios\Exercicio_01\bin\Debug\Exercicio_01.pdb
+C:\Users\aluno1\Downloads\3_Lista_de_Exercicios\Exercicio_01\obj\Debug\Exercicio_01.csprojAssemblyReference.cache
+C:\Users\aluno1\Downloads\3_Lista_de_Exercicios\Exercicio_01\obj\Debug\Exercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Downloads\3_Lista_de_Exercicios\Exercicio_01\obj\Debug\Exercicio_01.exe
+C:\Users\aluno1\Downloads\3_Lista_de_Exercicios\Exercicio_01\obj\Debug\Exercicio_01.pdb

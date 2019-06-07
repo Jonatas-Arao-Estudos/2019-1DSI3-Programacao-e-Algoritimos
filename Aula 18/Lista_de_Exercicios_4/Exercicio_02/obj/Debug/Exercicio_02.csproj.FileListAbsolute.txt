@@ -1,0 +1,14 @@
+C:\Users\aluno3\Documents\Lista_de_Exercicios_4\Exercicio_02\bin\Debug\Exercicio_02.exe.config
+C:\Users\aluno3\Documents\Lista_de_Exercicios_4\Exercicio_02\bin\Debug\Exercicio_02.exe
+C:\Users\aluno3\Documents\Lista_de_Exercicios_4\Exercicio_02\bin\Debug\Exercicio_02.pdb
+C:\Users\aluno3\Documents\Lista_de_Exercicios_4\Exercicio_02\obj\Debug\Exercicio_02.csprojAssemblyReference.cache
+C:\Users\aluno3\Documents\Lista_de_Exercicios_4\Exercicio_02\obj\Debug\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\aluno3\Documents\Lista_de_Exercicios_4\Exercicio_02\obj\Debug\Exercicio_02.exe
+C:\Users\aluno3\Documents\Lista_de_Exercicios_4\Exercicio_02\obj\Debug\Exercicio_02.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 18\Lista_de_Exercicios_4\Exercicio_02\bin\Debug\Exercicio_02.exe.config
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 18\Lista_de_Exercicios_4\Exercicio_02\bin\Debug\Exercicio_02.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 18\Lista_de_Exercicios_4\Exercicio_02\bin\Debug\Exercicio_02.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 18\Lista_de_Exercicios_4\Exercicio_02\obj\Debug\Exercicio_02.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 18\Lista_de_Exercicios_4\Exercicio_02\obj\Debug\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 18\Lista_de_Exercicios_4\Exercicio_02\obj\Debug\Exercicio_02.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 18\Lista_de_Exercicios_4\Exercicio_02\obj\Debug\Exercicio_02.pdb

@@ -1,0 +1,6 @@
+C:\Users\aluno3\source\repos\Funcoes\Funcoes2\bin\Debug\Funcoes2.exe.config
+C:\Users\aluno3\source\repos\Funcoes\Funcoes2\bin\Debug\Funcoes2.exe
+C:\Users\aluno3\source\repos\Funcoes\Funcoes2\bin\Debug\Funcoes2.pdb
+C:\Users\aluno3\source\repos\Funcoes\Funcoes2\obj\Debug\Funcoes2.csproj.CoreCompileInputs.cache
+C:\Users\aluno3\source\repos\Funcoes\Funcoes2\obj\Debug\Funcoes2.exe
+C:\Users\aluno3\source\repos\Funcoes\Funcoes2\obj\Debug\Funcoes2.pdb

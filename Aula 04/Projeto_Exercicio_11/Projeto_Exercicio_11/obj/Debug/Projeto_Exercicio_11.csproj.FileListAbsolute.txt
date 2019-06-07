@@ -1,0 +1,6 @@
+C:\Users\aluno1\Downloads\Projeto_Exercicio_11\Projeto_Exercicio_11\bin\Debug\Projeto_Exercicio_11.exe.config
+C:\Users\aluno1\Downloads\Projeto_Exercicio_11\Projeto_Exercicio_11\bin\Debug\Projeto_Exercicio_11.exe
+C:\Users\aluno1\Downloads\Projeto_Exercicio_11\Projeto_Exercicio_11\bin\Debug\Projeto_Exercicio_11.pdb
+C:\Users\aluno1\Downloads\Projeto_Exercicio_11\Projeto_Exercicio_11\obj\Debug\Projeto_Exercicio_11.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Downloads\Projeto_Exercicio_11\Projeto_Exercicio_11\obj\Debug\Projeto_Exercicio_11.exe
+C:\Users\aluno1\Downloads\Projeto_Exercicio_11\Projeto_Exercicio_11\obj\Debug\Projeto_Exercicio_11.pdb

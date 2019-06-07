@@ -1,0 +1,6 @@
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Exercicio_4\bin\Debug\Exercicio_4.exe.config
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Exercicio_4\bin\Debug\Exercicio_4.exe
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Exercicio_4\bin\Debug\Exercicio_4.pdb
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Exercicio_4\obj\Debug\Exercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Exercicio_4\obj\Debug\Exercicio_4.exe
+C:\Users\aluno3\source\repos\Lista_de_Exercicios\Exercicio_4\obj\Debug\Exercicio_4.pdb

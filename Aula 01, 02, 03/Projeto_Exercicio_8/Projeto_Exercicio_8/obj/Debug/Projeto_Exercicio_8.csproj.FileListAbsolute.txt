@@ -1,0 +1,7 @@
+C:\Users\jonat\Videos\Projeto_Exercicio_8\Projeto_Exercicio_8\bin\Debug\Projeto_Exercicio_8.exe.config
+C:\Users\jonat\Videos\Projeto_Exercicio_8\Projeto_Exercicio_8\bin\Debug\Projeto_Exercicio_8.exe
+C:\Users\jonat\Videos\Projeto_Exercicio_8\Projeto_Exercicio_8\bin\Debug\Projeto_Exercicio_8.pdb
+C:\Users\jonat\Videos\Projeto_Exercicio_8\Projeto_Exercicio_8\obj\Debug\Projeto_Exercicio_8.csprojAssemblyReference.cache
+C:\Users\jonat\Videos\Projeto_Exercicio_8\Projeto_Exercicio_8\obj\Debug\Projeto_Exercicio_8.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Videos\Projeto_Exercicio_8\Projeto_Exercicio_8\obj\Debug\Projeto_Exercicio_8.exe
+C:\Users\jonat\Videos\Projeto_Exercicio_8\Projeto_Exercicio_8\obj\Debug\Projeto_Exercicio_8.pdb

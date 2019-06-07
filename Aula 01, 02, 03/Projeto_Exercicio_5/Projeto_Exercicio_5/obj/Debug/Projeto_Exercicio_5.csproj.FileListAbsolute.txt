@@ -1,0 +1,13 @@
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_5\Projeto_Exercicio_5\bin\Debug\Projeto_Exercicio_5.exe.config
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_5\Projeto_Exercicio_5\bin\Debug\Projeto_Exercicio_5.exe
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_5\Projeto_Exercicio_5\bin\Debug\Projeto_Exercicio_5.pdb
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_5\Projeto_Exercicio_5\obj\Debug\Projeto_Exercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_5\Projeto_Exercicio_5\obj\Debug\Projeto_Exercicio_5.exe
+C:\Users\aluno1\Downloads\Projeto_X\Projeto_Exercicio_5\Projeto_Exercicio_5\obj\Debug\Projeto_Exercicio_5.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Projeto_Exercicio_5\Projeto_Exercicio_5\bin\Debug\Projeto_Exercicio_5.exe.config
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Projeto_Exercicio_5\Projeto_Exercicio_5\bin\Debug\Projeto_Exercicio_5.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Projeto_Exercicio_5\Projeto_Exercicio_5\bin\Debug\Projeto_Exercicio_5.pdb
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Projeto_Exercicio_5\Projeto_Exercicio_5\obj\Debug\Projeto_Exercicio_5.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Projeto_Exercicio_5\Projeto_Exercicio_5\obj\Debug\Projeto_Exercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Projeto_Exercicio_5\Projeto_Exercicio_5\obj\Debug\Projeto_Exercicio_5.exe
+C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Projeto_Exercicio_5\Projeto_Exercicio_5\obj\Debug\Projeto_Exercicio_5.pdb

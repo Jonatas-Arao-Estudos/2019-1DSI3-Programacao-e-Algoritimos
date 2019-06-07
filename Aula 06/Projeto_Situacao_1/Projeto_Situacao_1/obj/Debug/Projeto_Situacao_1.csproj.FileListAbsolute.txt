@@ -1,0 +1,7 @@
+C:\Users\aluno1\Source\Repos\Projeto_Situacao_1\Projeto_Situacao_1\bin\Debug\Projeto_Situacao_1.exe.config
+C:\Users\aluno1\Source\Repos\Projeto_Situacao_1\Projeto_Situacao_1\bin\Debug\Projeto_Situacao_1.exe
+C:\Users\aluno1\Source\Repos\Projeto_Situacao_1\Projeto_Situacao_1\bin\Debug\Projeto_Situacao_1.pdb
+C:\Users\aluno1\Source\Repos\Projeto_Situacao_1\Projeto_Situacao_1\obj\Debug\Projeto_Situacao_1.csprojAssemblyReference.cache
+C:\Users\aluno1\Source\Repos\Projeto_Situacao_1\Projeto_Situacao_1\obj\Debug\Projeto_Situacao_1.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Source\Repos\Projeto_Situacao_1\Projeto_Situacao_1\obj\Debug\Projeto_Situacao_1.exe
+C:\Users\aluno1\Source\Repos\Projeto_Situacao_1\Projeto_Situacao_1\obj\Debug\Projeto_Situacao_1.pdb

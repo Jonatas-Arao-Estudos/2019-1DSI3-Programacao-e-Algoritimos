@@ -1,0 +1,7 @@
+C:\Users\aluno3\Downloads\Projeto_Exercicio_15\Projeto_Exercicio_15\bin\Debug\Projeto_Exercicio_15.exe.config
+C:\Users\aluno3\Downloads\Projeto_Exercicio_15\Projeto_Exercicio_15\bin\Debug\Projeto_Exercicio_15.exe
+C:\Users\aluno3\Downloads\Projeto_Exercicio_15\Projeto_Exercicio_15\bin\Debug\Projeto_Exercicio_15.pdb
+C:\Users\aluno3\Downloads\Projeto_Exercicio_15\Projeto_Exercicio_15\obj\Debug\Projeto_Exercicio_15.csproj.CoreCompileInputs.cache
+C:\Users\aluno3\Downloads\Projeto_Exercicio_15\Projeto_Exercicio_15\obj\Debug\Projeto_Exercicio_15.exe
+C:\Users\aluno3\Downloads\Projeto_Exercicio_15\Projeto_Exercicio_15\obj\Debug\Projeto_Exercicio_15.pdb
+C:\Users\aluno3\Downloads\Projeto_Exercicio_15\Projeto_Exercicio_15\obj\Debug\Projeto_Exercicio_15.csprojAssemblyReference.cache
