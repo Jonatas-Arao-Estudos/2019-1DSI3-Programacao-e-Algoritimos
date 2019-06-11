@@ -56,10 +56,10 @@ namespace ProjetoCadastro
 
         private void btnNovo_Click(object sender, EventArgs e)
         {
-            if (frmPrincipal.contusu < 10)
+            if (frmPrincipal.contcli < 10)
             {
                 Habilita();
-                txtCodigo.Text = (frmPrincipal.contusu + 1).ToString();
+                txtCodigo.Text = (frmPrincipal.contcli + 1).ToString();
                 txtNome.Text = "";
                 txtNivel.Text = "";
                 txtLogin.Text = "";
@@ -71,7 +71,7 @@ namespace ProjetoCadastro
 
         private void btnAlterar_Click(object sender, EventArgs e)
         {
-            if (frmPrincipal.contusu > 0)
+            if (frmPrincipal.contcli > 0)
             {
                 Habilita();
                 txtNome.Focus();
@@ -90,12 +90,12 @@ namespace ProjetoCadastro
             Desabilita();
             if (flagCad == 'N')
             {
-                frmPrincipal.cliente[frmPrincipal.contusu].cd_cliente = int.Parse(txtCodigo.Text);
-                frmPrincipal.cliente[frmPrincipal.contusu].nm_cliente = txtNome.Text;
-                frmPrincipal.cliente[frmPrincipal.contusu].sg_nivel = txtNivel.Text;
-                frmPrincipal.cliente[frmPrincipal.contusu].nm_login = txtLogin.Text;
-                frmPrincipal.cliente[frmPrincipal.contusu].ds_senha = txtSenha.Text;
-                atual = frmPrincipal.contusu++;
+                frmPrincipal.cliente[frmPrincipal.contcli].cd_cliente = int.Parse(txtCodigo.Text);
+                frmPrincipal.cliente[frmPrincipal.contcli].nm_cliente = txtNome.Text;
+                frmPrincipal.cliente[frmPrincipal.contcli].sg_nivel = txtNivel.Text;
+                frmPrincipal.cliente[frmPrincipal.contcli].nm_login = txtLogin.Text;
+                frmPrincipal.cliente[frmPrincipal.contcli].ds_senha = txtSenha.Text;
+                atual = frmPrincipal.contcli++;
             }
             else
             {
@@ -129,7 +129,7 @@ namespace ProjetoCadastro
 
         private void btnProximo_Click(object sender, EventArgs e)
         {
-            if (atual < frmPrincipal.contusu - 1)
+            if (atual < frmPrincipal.contcli - 1)
             {
                 atual++;
                 Mostra();

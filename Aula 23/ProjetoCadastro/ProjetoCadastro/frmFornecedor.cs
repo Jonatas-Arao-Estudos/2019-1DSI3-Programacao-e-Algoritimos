@@ -55,10 +55,10 @@ namespace ProjetoCadastro
         }
         private void btnNovo_Click(object sender, EventArgs e)
         {
-            if (frmPrincipal.contusu < 10)
+            if (frmPrincipal.contforn < 10)
             {
                 Habilita();
-                txtCodigo.Text = (frmPrincipal.contusu + 1).ToString();
+                txtCodigo.Text = (frmPrincipal.contforn + 1).ToString();
                 txtNome.Text = "";
                 txtNivel.Text = "";
                 txtLogin.Text = "";
@@ -70,7 +70,7 @@ namespace ProjetoCadastro
 
         private void btnAlterar_Click(object sender, EventArgs e)
         {
-            if (frmPrincipal.contusu > 0)
+            if (frmPrincipal.contforn > 0)
             {
                 Habilita();
                 txtNome.Focus();
@@ -87,12 +87,12 @@ namespace ProjetoCadastro
             Desabilita();
             if (flagCad == 'N')
             {
-                frmPrincipal.fornecedor[frmPrincipal.contusu].cd_fornecedor = int.Parse(txtCodigo.Text);
-                frmPrincipal.fornecedor[frmPrincipal.contusu].nm_fornecedor = txtNome.Text;
-                frmPrincipal.fornecedor[frmPrincipal.contusu].sg_nivel = txtNivel.Text;
-                frmPrincipal.fornecedor[frmPrincipal.contusu].nm_login = txtLogin.Text;
-                frmPrincipal.fornecedor[frmPrincipal.contusu].ds_senha = txtSenha.Text;
-                atual = frmPrincipal.contusu++;
+                frmPrincipal.fornecedor[frmPrincipal.contforn].cd_fornecedor = int.Parse(txtCodigo.Text);
+                frmPrincipal.fornecedor[frmPrincipal.contforn].nm_fornecedor = txtNome.Text;
+                frmPrincipal.fornecedor[frmPrincipal.contforn].sg_nivel = txtNivel.Text;
+                frmPrincipal.fornecedor[frmPrincipal.contforn].nm_login = txtLogin.Text;
+                frmPrincipal.fornecedor[frmPrincipal.contforn].ds_senha = txtSenha.Text;
+                atual = frmPrincipal.contforn++;
             }
             else
             {
@@ -126,7 +126,7 @@ namespace ProjetoCadastro
 
         private void btnProximo_Click(object sender, EventArgs e)
         {
-            if (atual < frmPrincipal.contusu - 1)
+            if (atual < frmPrincipal.contforn - 1)
             {
                 atual++;
                 Mostra();

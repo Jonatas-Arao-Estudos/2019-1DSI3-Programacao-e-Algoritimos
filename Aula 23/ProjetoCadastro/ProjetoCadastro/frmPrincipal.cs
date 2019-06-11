@@ -12,7 +12,7 @@ namespace ProjetoCadastro
 {
     public partial class frmPrincipal : Form
     {
-        public static int contusu = 0, contli = 0, contfor = 0;
+        public static int contusu = 0, contcli = 0, contforn = 0, contli = 0, contfor = 0;
         public struct Usuario
         {
             public int cd_usuario;
