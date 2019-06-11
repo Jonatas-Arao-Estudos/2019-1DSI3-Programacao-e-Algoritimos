@@ -31,3 +31,16 @@ C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolviment
 C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.CoreCompileInputs.cache
 C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
 C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojAssemblyReference.cache
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmPrincipal.resources
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmUsuario.resources
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.cache
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmCliente.resources
+C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmFornecedor.resources

@@ -144,5 +144,14 @@ namespace ProjetoCadastro
             txtLogin.Text = frmPrincipal.usuario[atual].nm_login;
             txtSenha.Text = frmPrincipal.usuario[atual].ds_senha;
         }
+
+        private void btnExcluir_Click(object sender, EventArgs e)
+        {
+            frmPrincipal.usuario[atual].nm_usuario = "";
+            frmPrincipal.usuario[atual].sg_nivel = "";
+            frmPrincipal.usuario[atual].nm_login = "";
+            frmPrincipal.usuario[atual].ds_senha = "";
+            Mostra();
+        }
     }
 }
