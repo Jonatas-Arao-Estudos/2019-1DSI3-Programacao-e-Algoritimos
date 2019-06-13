@@ -46,3 +46,5 @@ C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCa
 C:\Users\aluno1\Documents\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmFornecedor.resources
 C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmCliente.resources
 C:\Users\jonat\OneDrive - Etec Centro Paula Souza\Atividades ETEC\Desenvolvimento de Sistemas\1DSI3\Programação e Algoritmos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmFornecedor.resources
+C:\Users\aluno2\Downloads\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmCliente.resources
+C:\Users\aluno2\Downloads\2019-1DSI3-Programacao-e-Algoritimos\Aula 23\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.frmFornecedor.resources
