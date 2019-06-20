@@ -149,5 +149,37 @@ namespace ProjetoCadastro
             frmPrincipal.fornecedor[atual].ds_senha = "";
             Mostra();
         }
+        private void btnPesquisar_Click(object sender, EventArgs e)
+        {
+            pnlPesquisa.Visible = true;
+        }
+
+        private void btnSairPesquisa_Click(object sender, EventArgs e)
+        {
+            pnlPesquisa.Visible = false;
+        }
+
+        private void btnOK_Click(object sender, EventArgs e)
+        {
+            int i;
+            if (txtPesquisa.Text != "")
+            {
+                for (i = 0; i < frmPrincipal.contforn; i++)
+                {
+                    if (frmPrincipal.fornecedor[i].nm_fornecedor == txtPesquisa.Text)
+                    {
+                        atual = i;
+                        Mostra();
+                        break;
+                    }
+                }
+                if (i >= frmPrincipal.contforn)
+                {
+                    MessageBox.Show("Não Encontrado");
+                }
+            }
+            pnlPesquisa.Visible = false;
+        }
     }
 }
+

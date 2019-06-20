@@ -48,6 +48,12 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.pnlPesquisa = new System.Windows.Forms.Panel();
+            this.btnSairPesquisa = new System.Windows.Forms.Button();
+            this.btnOK = new System.Windows.Forms.Button();
+            this.txtPesquisa = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.pnlPesquisa.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnSair
@@ -77,6 +83,7 @@
             this.btnPesquisar.TabIndex = 38;
             this.btnPesquisar.Text = "Pesquisar";
             this.btnPesquisar.UseVisualStyleBackColor = true;
+            this.btnPesquisar.Click += new System.EventHandler(this.btnPesquisar_Click);
             // 
             // btnCancelar
             // 
@@ -229,12 +236,61 @@
             this.label1.TabIndex = 21;
             this.label1.Text = "Código";
             // 
+            // pnlPesquisa
+            // 
+            this.pnlPesquisa.Controls.Add(this.btnSairPesquisa);
+            this.pnlPesquisa.Controls.Add(this.btnOK);
+            this.pnlPesquisa.Controls.Add(this.txtPesquisa);
+            this.pnlPesquisa.Controls.Add(this.label6);
+            this.pnlPesquisa.Location = new System.Drawing.Point(219, 125);
+            this.pnlPesquisa.Name = "pnlPesquisa";
+            this.pnlPesquisa.Size = new System.Drawing.Size(241, 123);
+            this.pnlPesquisa.TabIndex = 43;
+            this.pnlPesquisa.Visible = false;
+            // 
+            // btnSairPesquisa
+            // 
+            this.btnSairPesquisa.Location = new System.Drawing.Point(129, 78);
+            this.btnSairPesquisa.Name = "btnSairPesquisa";
+            this.btnSairPesquisa.Size = new System.Drawing.Size(48, 25);
+            this.btnSairPesquisa.TabIndex = 3;
+            this.btnSairPesquisa.Text = "Sair";
+            this.btnSairPesquisa.UseVisualStyleBackColor = true;
+            this.btnSairPesquisa.Click += new System.EventHandler(this.btnSairPesquisa_Click);
+            // 
+            // btnOK
+            // 
+            this.btnOK.Location = new System.Drawing.Point(61, 78);
+            this.btnOK.Name = "btnOK";
+            this.btnOK.Size = new System.Drawing.Size(48, 25);
+            this.btnOK.TabIndex = 2;
+            this.btnOK.Text = "OK";
+            this.btnOK.UseVisualStyleBackColor = true;
+            this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
+            // 
+            // txtPesquisa
+            // 
+            this.txtPesquisa.Location = new System.Drawing.Point(61, 36);
+            this.txtPesquisa.Name = "txtPesquisa";
+            this.txtPesquisa.Size = new System.Drawing.Size(166, 20);
+            this.txtPesquisa.TabIndex = 1;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(20, 39);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(35, 13);
+            this.label6.TabIndex = 0;
+            this.label6.Text = "Nome";
+            // 
             // frmCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(491, 361);
             this.ControlBox = false;
+            this.Controls.Add(this.pnlPesquisa);
             this.Controls.Add(this.btnSair);
             this.Controls.Add(this.btnImprimir);
             this.Controls.Add(this.btnPesquisar);
@@ -258,6 +314,8 @@
             this.Name = "frmCliente";
             this.Text = "Cliente";
             this.Load += new System.EventHandler(this.frmCliente_Load);
+            this.pnlPesquisa.ResumeLayout(false);
+            this.pnlPesquisa.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -285,5 +343,10 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Panel pnlPesquisa;
+        private System.Windows.Forms.Button btnSairPesquisa;
+        private System.Windows.Forms.Button btnOK;
+        private System.Windows.Forms.TextBox txtPesquisa;
+        private System.Windows.Forms.Label label6;
     }
 }

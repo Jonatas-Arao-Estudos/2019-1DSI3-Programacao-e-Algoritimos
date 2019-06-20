@@ -153,5 +153,37 @@ namespace ProjetoCadastro
             frmPrincipal.usuario[atual].ds_senha = "";
             Mostra();
         }
+
+        private void btnPesquisar_Click(object sender, EventArgs e)
+        {
+            pnlPesquisa.Visible = true;
+        }
+
+        private void btnSairPesquisa_Click(object sender, EventArgs e)
+        {
+            pnlPesquisa.Visible = false;
+        }
+
+        private void btnOK_Click(object sender, EventArgs e)
+        {
+            int i;
+            if (txtPesquisa.Text != "")
+            {
+                for(i=0; i < frmPrincipal.contusu; i++)
+                {
+                    if (frmPrincipal.usuario[i].nm_usuario == txtPesquisa.Text)
+                    {
+                        atual = i;
+                        Mostra();
+                        break;
+                    }
+                }
+                if (i >= frmPrincipal.contusu)
+                {
+                    MessageBox.Show("Não Encontrado");
+                }
+            }
+            pnlPesquisa.Visible = false;
+        }
     }
 }
