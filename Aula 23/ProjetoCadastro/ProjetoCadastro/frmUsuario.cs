@@ -185,5 +185,22 @@ namespace ProjetoCadastro
             }
             pnlPesquisa.Visible = false;
         }
+
+        private void btnImprimir_Click(object sender, EventArgs e)
+        {
+            printPreviewDialog1.Show();
+        }
+
+        private void printDocument1_PrintPage(object sender, System.Drawing.Printing.PrintPageEventArgs e)
+        {
+            Graphics objImpressao = e.Graphics;
+            string strDados;
+            strDados = "Ficha de Usuário" + (char)10 + (char)10;
+            strDados += "Código: " + txtCodigo.Text + (char)10;
+            strDados += "Nome: " + txtNome.Text + (char)10;
+            strDados += "Nível: " + txtNivel.Text + (char)10;
+            strDados += "Login: " + txtLogin.Text;
+            objImpressao.DrawString(strDados,new System.Drawing.Font("Times New Roman", 14,FontStyle.Bold),Brushes.Black,50,50);
+        }
     }
 }
